@@ -1,13 +1,11 @@
 html{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .homepage{
     background-color: #192930;
     color: #fff;
 
-    .heading{
-        text-align: center;
-    }
     a{
         display:block;
         text-decoration:none;
@@ -15,4 +13,30 @@ html{
         color:#fff;
         padding:12px;
     }
+}
+.content{
+    background: #1f011a;
+    color:#fff;
+    padding:30px;
+    
+}
+.content p{
+    text-align: center;
+    padding-top: 5px;
+}
+
+.content h1{
+    text-align:center;
+}
+.content img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:30%;
+}
+.content ul li{
+    padding:5px;
+}
+.content ol li{
+    padding:5px;
 }
