@@ -1,2 +1,2 @@
 # odin-project
-html recipe site
+A site about recipes to showcase my html skills
