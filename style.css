@@ -1,0 +1,18 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.homepage{
+    background-color: #192930;
+    color: #fff;
+
+    .heading{
+        text-align: center;
+    }
+    a{
+        display:block;
+        text-decoration:none;
+        font-size:20px;
+        color:#fff;
+        padding:12px;
+    }
+}
