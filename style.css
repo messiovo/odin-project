@@ -1,5 +1,11 @@
 html{
+    box-sizing: border-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
 }
 
 .homepage{
